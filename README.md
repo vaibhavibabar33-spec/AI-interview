@@ -1,1 +1,1 @@
-# AI-interview 
+# AI-interview practice platform
